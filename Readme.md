@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **MERN stack projects along with Web Development to enhance my existing skills**
 
-- 📝 I regularly write articles on [https://medium.com/@shameenshahid19](https://medium.com/@shameenshahid19)
-
 - 📫 How to reach me **shameenshahid19@gmail.com**
 
 - ⚡ Fun fact **I am also a content Writer and my words expand over various niches.**
